@@ -1,0 +1,13 @@
+.mainSection {
+  margin-left: 10px;
+  border: 1px solid grey;
+  width: 800px;
+  padding: 20px;
+  text-align: center;
+}
+
+.containerContacts {
+  margin-top: 40px;
+  border: 2px solid black;
+  border-radius: 10px;
+}

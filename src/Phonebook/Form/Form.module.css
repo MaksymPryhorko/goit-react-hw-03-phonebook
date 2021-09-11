@@ -1,0 +1,21 @@
+.mainForm {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
+
+.labelForm {
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.inputForm {
+  width: 250px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.buttonForm {
+  width: 100px;
+  height: 30px;
+}

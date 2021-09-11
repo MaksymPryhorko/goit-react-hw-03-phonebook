@@ -1,0 +1,15 @@
+.filterContainer {
+  display: flex;
+  padding: 10px;
+}
+
+.labelFilter {
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.inputFilter {
+  width: 250px;
+  height: 25px;
+  margin-right: 10px;
+}
